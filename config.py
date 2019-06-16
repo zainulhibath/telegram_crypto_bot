@@ -1,0 +1,3 @@
+__TOKEN__ = '853973724:AAH_xC9UtAkPfuOSHv3YnujlGgwjNsI3TyY'
+__LOCALE_BILLION__ = 'bil.'
+__ADMINS__ = [369613251,]
